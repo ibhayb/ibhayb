@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">A passionate computer science student from germany</h3>
-<img align="left" alt="Coding" width="400" src="giphy.gif">
+<img align="right" alt="Coding" width="400" src="giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibhayb&label=Profile%20views&color=0e75b6&style=flat" alt="ibhayb" /> </p>
 
