@@ -1,6 +1,6 @@
 # Hi, I'm Ibrahim Enes Hayber! 👋
 
-I am a dedicated **Master's student in Computer Science (M.Sc.)** at the Frankfurt University of Applied Sciences with a strong academic background (Bachelor's grade 1.3, Bachelor thesis 1.0). I am passionate about research, teaching, and digital innovation, and I love applying my knowledge in practical software development.
+I am a dedicated **Master's Graduate in Computer Science (M.Sc.)** at the Frankfurt University of Applied Sciences with a strong academic background. I am passionate about research, teaching, and digital innovation, and I love applying my knowledge in practical software development.
 
 Alongside my studies, I am actively working in web development and as a university lecturer.
 
