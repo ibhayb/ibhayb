@@ -27,9 +27,10 @@ Alongside my studies, I am actively working in web development and as a universi
 
 ## 🎓 Education
 
-* **Computer Science (M.Sc.)** | *Frankfurt University of Applied Sciences* (2024 - Present)
+* **Computer Science (M.Sc.)** | *Frankfurt University of Applied Sciences* (2024 - 2026)
+   * *Master Thesis: 1.0*
 * **Computer Science (B.Sc.)** | *Frankfurt University of Applied Sciences* (2021 - 2024)
-  * *Final Grade: 1.3 | Bachelor Thesis: 1.0*
+   * *Bachelor Thesis: 1.0*
 
 ## 🏆 Awards & Scholarships
 
